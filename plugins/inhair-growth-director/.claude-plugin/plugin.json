@@ -1,9 +1,0 @@
-{
-  "name": "inhair-growth-director",
-  "version": "0.6.0",
-  "description": "Private growth orchestration for INHAIR.cz with demand-first implementation-grade audits, governed competitor intelligence, SEO, GEO/AIO, analytics, catalog, paid media, content, customer chat, brand and QA using live connectors, templates and current GitHub inputs.",
-  "author": {
-    "name": "Michal Kraus"
-  },
-  "keywords": ["inhair", "seo", "geo", "aio", "growth", "audit", "e-commerce", "czech"]
-}
